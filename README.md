@@ -1,6 +1,6 @@
 👋 Hi, I'm Kev Octavian 
 
-🎓 Informatics student passionate about Web & App Development
+🎓 Informatics Graduate passionate about Web & App Development
 
 👀 Interests Web Application Development, IT Support, and building business systems that solve real operational problems.
 
