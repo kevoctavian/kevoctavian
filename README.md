@@ -1,4 +1,4 @@
-👋 Hi, I'm Kev Octavian 
+👋 Hi, I'm Kevin Octavianus Santoso 
 
 🎓 Informatics Graduate passionate about Web & App Development
 
